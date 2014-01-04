@@ -90,6 +90,7 @@ int main()
 
 ```BASH
 $ g++ main.cpp
+$ ./a.out
 ```
 
 You can change the precision level of final outputs by changing the number of epochs.
