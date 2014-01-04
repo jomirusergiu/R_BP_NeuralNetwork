@@ -1,9 +1,7 @@
 R_BP_NeuralNetwork
-
 =================
 
-
-R_BP_NeuralNetwork is a small c++ project showing how to implement Backpropagation Algorithm for neural netoworks.
+R_BP_NeuralNetwork is a small C++ project showing how to implement Backpropagation Algorithm for neural netoworks.
 
 Backpropagation, an abbreviation for "backward propagation of errors", is a common method of training artificial neural networks. From a desired output, the network learns from many 
 inputs, similar to the way a child learns to identify a dog from examples of dogs.
@@ -12,10 +10,7 @@ It is a supervised learning method, and is a generalization of the delta rule. I
 for feed-forward networks (networks that have no feedback, or simply, that have no connections that loop). Backpropagation requires that the activation function used by the artificial 
 neurons (or "nodes") be differentiable.
 
-
-
 Usage
-
 -------------
 
 ```C++
@@ -93,13 +88,13 @@ int main()
 }
 ```
 
+```BASH
+$ g++ main.cpp
+``
+
 You can change the precision level of final outputs by changing the number of epochs.
 
-
 License
-
 --------
-
-
 
 This code is under the BSD license.

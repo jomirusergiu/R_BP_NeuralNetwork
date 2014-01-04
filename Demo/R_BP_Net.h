@@ -2,8 +2,8 @@
 //  R_BP_Net.cpp
 //  R_BP_NeuralNetwork
 //
-//  Created by RocKK on 12/19/13.
-//  Copyright (c) 2013 RocKK.
+//  Created by RocKK on 04/01/14.
+//  Copyright (c) 2014 RocKK.
 //  All rights reserved.
 //
 //  Redistribution and use in source and binary forms are permitted
