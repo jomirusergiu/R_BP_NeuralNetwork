@@ -1,7 +1,9 @@
 R_BP_NeuralNetwork
 =================
 
-R_BP_NeuralNetwork is a small C++ project showing how to implement Backpropagation Algorithm for neural netoworks.
+R_BP_NeuralNetwork is a small C++ project showing how to implement Backpropagation Algorithm for neural networks.
+This sample shows how to teach the neural network to learn the XOR (or exclusive) gate.
+There isn't much complexity to create any application like this. Please note that I am going to post only the basics here. You will have to do the rest. 
 
 Backpropagation, an abbreviation for "backward propagation of errors", is a common method of training artificial neural networks. From a desired output, the network learns from many 
 inputs, similar to the way a child learns to identify a dog from examples of dogs.
