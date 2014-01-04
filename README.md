@@ -18,7 +18,6 @@ Usage
 ```C++
 #include <iostream>
 #include "R_BP_Net.h"
-#include "R_BP_Net.cpp"
 using namespace std;
 #define PATTERN_COUNT 4
 #define PATTERN_SIZE 2
