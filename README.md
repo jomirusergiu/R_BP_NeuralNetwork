@@ -96,6 +96,19 @@ $ ./a.out
 
 You can change the precision level of final outputs by changing the number of epochs.
 
+```BASH
+[rockk@arch Demo]$ g++ main.cpp
+[rockk@arch Demo]$ ./a.out 
+Creating XOR Patterns
+Creating Neural Network
+Starting neural network training [50.000 epochs]
+Neural network finshed training, testing all patterns
+TESTED PATTERN 0 DESIRED OUTPUT: 0 NET RESULT: 0.0136057
+TESTED PATTERN 1 DESIRED OUTPUT: 1 NET RESULT: 0.984795
+TESTED PATTERN 2 DESIRED OUTPUT: 1 NET RESULT: 0.983194
+TESTED PATTERN 3 DESIRED OUTPUT: 0 NET RESULT: 0.0125526
+```
+
 License
 --------
 
