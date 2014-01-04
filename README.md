@@ -12,6 +12,8 @@ It is a supervised learning method, and is a generalization of the delta rule. I
 for feed-forward networks (networks that have no feedback, or simply, that have no connections that loop). Backpropagation requires that the activation function used by the artificial 
 neurons (or "nodes") be differentiable.
 
+You can change the precision level of final outputs by changing the number of epochs.
+
 Usage
 -------------
 
@@ -88,9 +90,6 @@ int main()
     return 0;
 }
 ```
-
-You can change the precision level of final outputs by changing the number of epochs.
-
 Output
 --------
 
